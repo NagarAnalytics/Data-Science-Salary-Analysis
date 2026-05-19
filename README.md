@@ -1,5 +1,5 @@
-# Data-Science-Salary-Analysis
-# Data Science Career Analysis: The Applied Scientist Premium
+# 💸Data-Science-Salary-Analysis
+# 💸Data Science Career Analysis: The Applied Scientist Premium
 "A data-driven analysis of 2024-2025 AI and Data Science salaries, identifying high-ROI career paths and market compensation trends using Python."
 
 ## 🎯 Project Overview
