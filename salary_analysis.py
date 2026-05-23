@@ -20,7 +20,7 @@ print("Successfully loaded! Here are your columns:")
 # (In this dataset, 'Entry-level' is usually coded as 'EN')
 df_entry_level = df[df['experience_level'] == 'Entry-level']
 
-# 2. Find the top 5 highest paying Job Titles for Entry-Level
+# 2. Find the top 5 highest-paying job titles for Entry-Level
 top_5_jobs = df_entry_level.groupby('job_title')['salary_in_usd'].mean().sort_values(ascending=False).head(5)
 
 print("--- Top 5 Highest Paying Entry-Level Job Titles ---")
@@ -35,7 +35,7 @@ plt.xlabel('Average Salary ($)')
 plt.gca().invert_yaxis() # Put the highest at the top
 plt.show()
 
-# 4. Filter specifically for 'Applied Scientist'
+# 4. Filter specifically for 'Applied Scientist.'
 df_applied_sci = df[df['job_title'] == 'Applied Scientist']
 
 # 5. Compare Salary by Work Setting (Remote, In-person, Hybrid)
