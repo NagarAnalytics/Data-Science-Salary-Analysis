@@ -20,10 +20,10 @@ This project investigates the compensation landscape for data professionals usin
 
 ## 📊 Visualizations
 ### Salary by Work Setting
-![Work Setting Comparison](work_setting_comparison.png) <img width="1000" height="500" alt="work_setting_comparison" src="https://github.com/user-attachments/assets/32a66a9b-db74-4b2b-80f1-ffd64a1745fb" />
+<img width="1000" height="500" alt="work_setting_comparison" src="https://github.com/user-attachments/assets/32a66a9b-db74-4b2b-80f1-ffd64a1745fb" />
 
 ### Salary by Company Size
-![Company Size Comparison](company_size_comparison.png) <img width="1000" height="500" alt="company_size_comparison" src="https://github.com/user-attachments/assets/84f8514d-b1ed-4256-8beb-1ef12cc66573" />
+<img width="1000" height="500" alt="company_size_comparison" src="https://github.com/user-attachments/assets/84f8514d-b1ed-4256-8beb-1ef12cc66573" />
 
 ## 📁 How to Use
 1. Clone the repository.
