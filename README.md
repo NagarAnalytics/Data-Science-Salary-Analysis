@@ -6,7 +6,7 @@ This project investigates the compensation landscape for data professionals usin
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **Libraries:** Pandas (Analysis), Matplotlib & Seaborn 
+* **Libraries:** Pandas (Analysis), Matplotlib & Seaborn (Visualization)
 
 ## 🚀 Key Insights
 * **The Applied Scientist Lead:** Identified "Applied Scientist" as the top-earning entry-level role, with average compensation reaching ~$190,000.
